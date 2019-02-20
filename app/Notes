@@ -1,0 +1,3 @@
+Public    - any object can access
+Private   - only can be accessed by the CLASS it is declared in
+Protected - only can be accessed in the PACKAGE declared in
